@@ -1,6 +1,12 @@
 # PU10
 PU10, aka HTC Universal, aka Qtek 9000 resurrection
 
+## Rationale
+
+Strange device has been found in a garage junk box by the fellow. It did not boot even on power cable, finally sent to me to install Linux on it (kind of bet).
+
+![PU10 Qtek 9000](img/pu10_001.png?raw=true "PU10 Qtek 9000")
+
 ## Links
 
 - [HTC Universal @wikipedia](https://en.wikipedia.org/wiki/HTC_Universal)
