@@ -11,5 +11,6 @@ Strange device has been found in a garage junk box by the fellow. It did not boo
 
 - [HTC Universal @wikipedia](https://en.wikipedia.org/wiki/HTC_Universal)
 - [HTC Universal @xda-developers wiki](https://forum.xda-developers.com/wiki/HTC_Universal)
+- [specs @phonedb](http://phonedb.net/index.php?m=device&id=310&c=qtek_9000__htc_universal)
 - [Linux on HTC Uni](http://www.unilinux.4fan.cz/)
 - [Howto install Debian GNU/Linux on HTC Universal](https://www.rainbowbreeze.it/howto-install-debian-gnulinux-on-htc-universal/)
