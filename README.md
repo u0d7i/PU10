@@ -14,5 +14,6 @@ Strange device has been found in a garage junk box by the fellow. It did not boo
 - [HTC Universal @xda forum](https://forum.xda-developers.com/htc-mda-pro)
 - [HTC Universal @4pda](http://4pda.ru/forum/index.php?showtopic=17581&st=0) ([roms](http://4pda.ru/forum/index.php?showtopic=81086))
 - [specs @phonedb](http://phonedb.net/index.php?m=device&id=310&c=qtek_9000__htc_universal)
+- [shipped ROMs](http://shipped-roms.com/index.php?category=windows%20mobile&model=Universal) - was hard to fing alive links
 - [Linux on HTC Uni](http://www.unilinux.4fan.cz/)
 - [Howto install Debian GNU/Linux on HTC Universal](https://www.rainbowbreeze.it/howto-install-debian-gnulinux-on-htc-universal/)
