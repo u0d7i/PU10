@@ -8,7 +8,7 @@ Inner label shows model number PU10, "HTC Innovation" ("Innovation" is not the m
 it's like "Nokia Connecting People") and IMEI with TAC 35519500, belonging to HTC,
 corresponding to MDA pro,Dopod 900,Universal,XDA Exec models. Battery model is PU16A.
 
-On the innet cover there is a hologram label with "Bitė" telco operator (246 02) name,
+On the inner cover there is a hologram label with "Bitė" telco operator name (MCC + MNC: 246 02),
 saying "Qtek bitė edition", which could potentially mean phone can be operator-locked.
 
 And if you wonder - stylus is inside:
