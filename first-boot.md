@@ -49,4 +49,4 @@ pressed by stylus):
 ![PU10 Qtek 9000](img/pu10_011.png?raw=true "PU10 Qtek 9000")
 
 BootLoader mode shows "Serial" atop of the screen  and "v2.01" at the bottom. Backlit is disabled, so,
-difficult to make a pictude.
+difficult to make a picture.
