@@ -7,6 +7,10 @@ Strange device has been found in a garage junk box by the fellow. It did not boo
 
 ![PU10 Qtek 9000](img/pu10_001.png?raw=true "PU10 Qtek 9000")
 
+## Progress
+
+- [First boot, ID and specs](first-boot.md)
+
 ## Links
 
 - [HTC Universal @wikipedia](https://en.wikipedia.org/wiki/HTC_Universal)
