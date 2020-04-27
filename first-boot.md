@@ -22,3 +22,14 @@ Battery was not completely dead and showed ~1V checked by the tester, and chargi
 After less than half an hour of charging, it did try to boot, showing a boot screen:
 
 ![PU10 Qtek 9000](img/pu10_003.png?raw=true "PU10 Qtek 9000")
+
+But then there was a caveat - a gap, when "dumb" charging stopped, but for a "smart"
+charging OS needed to be booted, and there was not enough battery to boot the OS - 
+I've seen Windows logo multiple times but it did not manage to boot.  After quite a fiew iterations
+I've decided to charge the battery off the device with a random charger found in a box for 10 minutes:
+
+![PU10 Qtek 9000](img/pu10_004.png?raw=true "PU10 Qtek 9000")
+
+It did the trick, sistem booted and started charging the battery:
+
+![PU10 Qtek 9000](img/pu10_006.png?raw=true "PU10 Qtek 9000")
