@@ -50,3 +50,33 @@ pressed by stylus):
 
 BootLoader mode shows "Serial" atop of the screen  and "v2.01" at the bottom. Backlit is disabled, so,
 difficult to make a picture.
+
+Linux host, while device USB connected, in dmesg in normal mode shows:
+```
+[   49.576167] usb 1-8: new full-speed USB device number 4 using xhci_hcd
+[   49.728263] usb 1-8: New USB device found, idVendor=0bb4, idProduct=0b01, bcdDevice= 0.00
+[   49.728268] usb 1-8: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   49.728270] usb 1-8: Product: PocketPC USB Sync
+[   49.728272] usb 1-8: Manufacturer: MSFT
+[   49.795898] rndis_host 1-8:1.0: RNDIS init failed, -11
+[   49.796009] rndis_host: probe of 1-8:1.0 failed with error -11
+[   50.076164] rndis_wlan 1-8:1.0: RNDIS init failed, -110
+[   50.076284] rndis_wlan: probe of 1-8:1.0 failed with error -110
+```
+
+And in Boot loader moce:
+```
+[  159.715313] usb 1-8: new full-speed USB device number 5 using xhci_hcd
+[  159.864663] usb 1-8: New USB device found, idVendor=045e, idProduct=00ce, bcdDevice= 0.00
+[  159.864668] usb 1-8: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[  159.864670] usb 1-8: Product: PocketPC SmartPhone
+[  159.864673] usb 1-8: Manufacturer: Intel.
+[  159.881097] usbcore: registered new interface driver usbserial_generic
+[  159.881103] usbserial: USB Serial support registered for generic
+[  159.882679] usbcore: registered new interface driver ipaq
+[  159.882685] usbserial: USB Serial support registered for PocketPC PDA
+[  159.882707] ipaq 1-8:1.0: PocketPC PDA converter detected
+[  159.883483] usb 1-8: PocketPC PDA converter now attached to ttyUSB0
+[  169.454412] usb 1-8: USB disconnect, device number 5
+[  169.454644] ipaq ttyUSB0: PocketPC PDA converter now disconnected from ttyUSB0
+```
