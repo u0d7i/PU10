@@ -43,7 +43,7 @@ System information screens from within the OS:
 
 And finally - there is no power-off or reboot option. To power-off you need to remove the battery.
 To reboot, you need to put stylus into "Reset" hole. You'll also need a stylus to put device into BootLoader
-mode - press  Light (lightbulb button under volume control) + Power + Reset (the hole between earphpone USB,
+mode - press  Light (lightbulb button under the volume control) + Power + Reset (the hole between earphpones and USB,
 pressed by stylus):
 
 ![PU10 Qtek 9000](img/pu10_011.png?raw=true "PU10 Qtek 9000")
