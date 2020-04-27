@@ -33,3 +33,10 @@ I've decided to charge the battery off the device with a random charger found in
 It did the trick, sistem booted and started charging the battery:
 
 ![PU10 Qtek 9000](img/pu10_006.png?raw=true "PU10 Qtek 9000")
+
+System information screens from within the OS:
+
+![PU10 Qtek 9000](img/pu10_007.png?raw=true "PU10 Qtek 9000")
+![PU10 Qtek 9000](img/pu10_008.png?raw=true "PU10 Qtek 9000")
+![PU10 Qtek 9000](img/pu10_009.png?raw=true "PU10 Qtek 9000")
+![PU10 Qtek 9000](img/pu10_010.png?raw=true "PU10 Qtek 9000")
