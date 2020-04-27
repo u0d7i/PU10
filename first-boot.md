@@ -64,7 +64,7 @@ Linux host, while device USB connected, in dmesg in normal mode shows:
 [   50.076284] rndis_wlan: probe of 1-8:1.0 failed with error -110
 ```
 
-And in Boot loader moce:
+And in BootLoader moce:
 ```
 [  159.715313] usb 1-8: new full-speed USB device number 5 using xhci_hcd
 [  159.864663] usb 1-8: New USB device found, idVendor=045e, idProduct=00ce, bcdDevice= 0.00
