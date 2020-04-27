@@ -13,7 +13,7 @@ saying "Qtek bitė edition", which could potentially mean phone can be operator-
 
 And if you wonder - stylus is inside:
 
-![PU10 Qtek 9000](img/pu10_00į.png?raw=true "PU10 Qtek 9000")
+![PU10 Qtek 9000](img/pu10_005.png?raw=true "PU10 Qtek 9000")
 
 There was a mini-USB port, charhing indicator went red when connected.
 But device did not boot. Fast google search showed device can not operate
