@@ -78,3 +78,5 @@ And in BootLoader mode:
 [  159.882707] ipaq 1-8:1.0: PocketPC PDA converter detected
 [  159.883483] usb 1-8: PocketPC PDA converter now attached to ttyUSB0
 ```
+
+Battery is 87% after 3+ days in mostly standby mode.
